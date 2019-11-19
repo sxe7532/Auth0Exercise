@@ -89,7 +89,7 @@ def presentData():
 
     print('\n\nCOMPUTERS OFFLINE 3+ WEEKS\n\n'.center(150, '*'))
     print(t2)
-    print("\nThere are " + str(len(auditCompList)) + " employees who have not checked in to Jamf in 3+ weeks.\n\n")
+    print("\nThere are " + str(len(auditCompList)) + " employees who have not checked into Jamf in 3+ weeks.\n\n")
 
 
 if __name__ == "__main__":
